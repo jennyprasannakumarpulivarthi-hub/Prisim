@@ -1,0 +1,6 @@
+{
+  "name": "Prisim",
+  "description": "Prisim is a premium social media and professional collaboration platform for sharing project moments, short highlight videos, and direct collaboration among professional innovators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
